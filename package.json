@@ -1,0 +1,21 @@
+{
+  "name": "base-parcel-reactjs",
+  "version": "1.0.0",
+  "description": "A base ReactJS project using parcel bundler.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bulma": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "babel-preset-env": "latest",
+    "babel-preset-react": "latest",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["parcel", "parcel-bundler", "bulma", "reactjs"]
+}
