@@ -1,0 +1,1 @@
+A minimum project using ReactJS, Bulma based on parcel for building and packaging.
